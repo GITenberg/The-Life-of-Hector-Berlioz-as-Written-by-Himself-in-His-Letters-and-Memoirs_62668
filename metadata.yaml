@@ -1,11 +1,14 @@
 _repo: The-Life-of-Hector-Berlioz-as-Written-by-Himself-in-His-Letters-and-Memoirs_62668
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: La vie de Berlioz. English
 contributor:
   translator:
     agent_name: Boult, Katharine F.
     gutenberg_agent_id: '52067'
     url: http://www.gutenberg.org/2009/agents/52067
+covers:
+- cover_type: archival
+  image_path: 62668-h/images/cover.jpg
 creator:
   author:
     agent_name: Berlioz, Hector
@@ -20,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/Hector_Berlioz
     - http://fr.wikipedia.org/wiki/Hector_Berlioz
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62668#The-Life-of-Hector-Berlioz-as-Written-by-Himself-in-His-Letters-and-Memoirs
 gutenberg_issued: '2020-07-16'
 gutenberg_type: Text
 identifiers:
